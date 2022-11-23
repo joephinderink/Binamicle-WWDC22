@@ -1,4 +1,4 @@
-### Binamicle
+### Binamicle by Joep Hinderink
 
 `Joep Hinderink` `WWDC22` `Swift Student Challenge`
 
