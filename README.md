@@ -9,5 +9,3 @@ The app translates text to a binary numeral system captured from:
 * Typing
 
 You first enter an onboarding screen after which you have to follow all the steps. Finishing all these steps will lead you to a home screen where you can try everything again.
-
-[My LinkedIn](linkedin.com/in/joephinderink)
