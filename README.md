@@ -2,7 +2,7 @@
 
 `Joep Hinderink` `WWDC22` `Swift Student Challenge`
 
-[LinkedIn](linkedin.com/in/joephinderink)
+`[LinkedIn]`(linkedin.com/in/joephinderink)
 
 `[LinkedIn](https://www.linkedin.com/in/joephinderink)`
 
