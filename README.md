@@ -2,6 +2,8 @@
 
 `Joep Hinderink` `WWDC22` `Swift Student Challenge`
 
+[LinkedIn](linkedin.com/in/joephinderink)
+
 `[LinkedIn](https://www.linkedin.com/in/joephinderink)`
 
 My name is Joep Hinderink and I live in The Netherlands. For the Swift Student Challenge 2022 I submitted Binamicle and it got accepted. 
