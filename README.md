@@ -17,3 +17,5 @@ On [this](https://github.com/wwdc/2022) page you can also explore other (accepte
 ![RPReplay_Final1650856845_AdobeExpress](https://user-images.githubusercontent.com/76504861/203663425-27f60746-1bdc-4471-a9fa-e7e742015feb.gif)
 ![Joep Hinderink Apple Award WWDC22 Close-Up](https://user-images.githubusercontent.com/76504861/203626977-9db62f1e-4734-4a17-8304-2348211f8e93.jpeg)
 ![Joep Hinderink Apple Award WWDC22](https://user-images.githubusercontent.com/76504861/203626995-534b282d-a60f-4cf8-9700-63f5b8776bd9.jpeg)
+
+<img src="https://user-images.githubusercontent.com/76504861/203663425-27f60746-1bdc-4471-a9fa-e7e742015feb.gif" width="100%" />
