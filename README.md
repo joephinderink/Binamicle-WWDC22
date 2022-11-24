@@ -1,4 +1,4 @@
-### Binamicle by Joep Hinderink
+### [Binamicle by Joep Hinderink](https://github.com/joephinderink/Binamicle-WWDC22)
 
 `Joep Hinderink` `WWDC22` `Swift Student Challenge`
 
