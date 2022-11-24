@@ -1,5 +1,3 @@
-# [Binamicle by Joep Hinderink](https://github.com/joephinderink/Binamicle-WWDC22)
-
 > 🏆 Accepted submission for the Apple Swift Student Challenge 2022
 
 `Joep Hinderink` `WWDC22` `Swift Student Challenge`
