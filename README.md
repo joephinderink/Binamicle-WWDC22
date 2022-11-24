@@ -1,4 +1,4 @@
-> 🏆 Accepted submission for the Apple Swift Student Challenge 2022
+> 🏆 Accepted submission for the Apple Swift Student Challenge 2022 ([Download](https://github.com/joephinderink/Binamicle-WWDC22/archive/refs/heads/main.zip))
 
 `Joep Hinderink` `WWDC22` `Swift Student Challenge`
 
