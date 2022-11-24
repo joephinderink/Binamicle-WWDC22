@@ -15,7 +15,7 @@ You first enter an onboarding screen after which you have to follow all the step
 Download the entire project from [**this**](https://github.com/joephinderink/Binamicle-WWDC22) repository.
 
 On [this](https://github.com/wwdc/2022) page you can also explore other (accepted) submissions.
-<br>
+<br><br>
 
 > ### Demo
 
