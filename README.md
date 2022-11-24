@@ -10,7 +10,7 @@ My name is Joep Hinderink and I live in The Netherlands. For the Swift Student C
 
 You first enter an onboarding screen after which you have to follow all the steps. Finishing all these steps will lead you to a home screen where you can try everything again.
 
-Download the entire project from [**this**](https://github.com/joephinderink/Binamicle-WWDC22) repository.
+Download the entire project by clicking [here](https://github.com/joephinderink/Binamicle-WWDC22/archive/refs/heads/main.zip).
 
 On [this](https://github.com/wwdc/2022) page you can also explore other (accepted) submissions.
 <br><br>
