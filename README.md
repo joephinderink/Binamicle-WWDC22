@@ -1,10 +1,10 @@
-# Binamicle by Joep Hinderink
+# [by Joep Hinderink](https://github.com/joephinderink/Binamicle-WWDC22)
 
 > 🏆 Accepted submission for the Apple Swift Student Challenge 2022
 
 `Joep Hinderink` `WWDC22` `Swift Student Challenge`
 
-My name is Joep Hinderink and I live in The Netherlands. For the Swift Student Challenge 2022 I submitted Binamicle and it got accepted. The app translates text to a binary numeral system captured from:
+My name is Joep Hinderink and I live in The Netherlands. For the Swift Student Challenge 2022 I submitted **Binamicle** and it got accepted and won an award. The app translates text to a binary numeral system captured from:
 
 - Images
 - Speech
@@ -16,9 +16,11 @@ Download the entire project from [**this**](https://github.com/joephinderink/Bin
 
 On [this](https://github.com/wwdc/2022) page you can also explore other (accepted) submissions.
 <br>
+<br>
 > ### Demo
 
 ![203665587-891beadb-c347-4f17-b84a-71a1d3c9fad4.gif](https://user-images.githubusercontent.com/76504861/203665587-891beadb-c347-4f17-b84a-71a1d3c9fad4.gif)
+<br>
 <br>
 > ### Award photos
 
